@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-text-splitters
+faiss-cpu
+pypdf
+dashscope
+rank_bm25
+langgraph
+sentence-transformers
